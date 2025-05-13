@@ -1,4 +1,4 @@
-# Tic-Tac-Toe Game
+# project-GAME-X-O
 
 ## Project Overview
 This repository hosts a web-based implementation of the classic Tic-Tac-Toe (X-O) game, designed for two players to compete on a 3x3 grid. The goal is to align three symbols (X or O) in a row—horizontally, vertically, or diagonally—while offering a seamless and engaging user experience.
@@ -23,7 +23,7 @@ This repository hosts a web-based implementation of the classic Tic-Tac-Toe (X-O
 ## Installation
 1. Clone the repository to your local environment:
    ```
-   git clone https://github.com/your-username/tic-tac-toe.git
+   git clone https://github.com/shimaaf0uad/project-GAME-X-O.git
    ```
 2. Navigate to the project folder:
    ```
@@ -50,7 +50,7 @@ We welcome contributions! Fork the repository and submit pull requests. Please e
 This project is released under the MIT License. Refer to [LICENSE.md](LICENSE.md) for full terms.
 
 ## Contact
-For feedback or collaboration, reach out at [your-email@example.com](mailto:your-email@example.com).
+For feedback or collaboration, reach out at [shimaa.fouad002@gmail.com](mailto:shimaa.fouad002@gmail.com).
 
 ## Credits
-Inspired by traditional Tic-Tac-Toe games, with gratitude to the open-source community for supporting development tools.
+Inspired by traditional project-GAME-X-O games, with gratitude to the open-source community for supporting development tools.
